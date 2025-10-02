@@ -1,0 +1,13 @@
+# Backend
+backend/ClinicApi/bin/
+backend/ClinicApi/obj/
+backend/ClinicApi/clinic.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# General
+*.user
+*.log
+.DS_Store

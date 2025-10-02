@@ -2,6 +2,8 @@ using ClinicApi.Data;
 using ClinicApi.Dtos;
 using ClinicApi.Models;
 using ClinicApi.Services;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
